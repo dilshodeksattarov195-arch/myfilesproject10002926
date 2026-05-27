@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruetch",
+        "uuid": 21661178,
+        "checksum": "sy7d3j"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
